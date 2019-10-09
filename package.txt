@@ -1,0 +1,2 @@
+pyinstaller -F word2pdf.py
+pyinstaller -F wps2pdf.py
